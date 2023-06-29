@@ -144,7 +144,7 @@ else{
 let numeros = [10,4,2,8,7,4,9]
 //numeros.push(3)
 numeros.shift()
-
+numeros.shift()
 console.log(numeros)
 
 
